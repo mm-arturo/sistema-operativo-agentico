@@ -1,0 +1,4 @@
+# Finales de línea normalizados (LF) en el repositorio, sin importar el sistema de quien sube cambios.
+* text=auto
+*.md text
+*.png binary
