@@ -1,6 +1,6 @@
 # Tu sistema operativo agéntico
 
-Documentos del vídeo **«Cómo crear tu sistema operativo agéntico (Obsidian + Claude Code + Codex)»** del canal de Arturo Magana-Mora.
+Documentos del vídeo **«Cómo crear tu sistema operativo agéntico (Obsidian + Claude Code + Codex)» (https://www.youtube.com/watch?v=wjw8gpPXsPw)** del canal de Arturo Magana-Mora.
 
 **Gratis y sin registro:** no necesitas cuenta de GitHub para leerlos ni para descargarlos.
 
