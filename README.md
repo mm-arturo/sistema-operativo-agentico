@@ -136,7 +136,6 @@ El agente te pregunta qué proyectos conectar y en qué modo; todo es opcional. 
 
 ## Créditos y licencia
 
-- La arquitectura se inspira en el command center con Claude Code y Obsidian que publicó Chase AI: <https://www.chaseai.io/blog/claude-code-obsidian-command-center>.
 - Licencia **MIT** (archivo `LICENSE`): puedes usar, copiar, modificar y compartir estos documentos, también en proyectos comerciales, siempre que conserves el aviso de copyright y la licencia.
 - ¿Encontraste un error o algo cambió? Abre un *issue* en este repositorio o déjalo en los comentarios del vídeo.
 
